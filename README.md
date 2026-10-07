@@ -21,6 +21,7 @@ In 1975, Fred Brooks wrote *The Mythical Man-Month*: adding people to a late sof
 | Quarter-over-quarter commit volume increase (quality held by review) | **6×** |
 | Updating a running node (golden-image clone swap, not an install) | **2 seconds** |
 | BGP software-defined network, from "I wonder" to benchmarked and working | **weeks** |
+| Total human attention on it, spread across 232 days | **65 hours** |
 | Industry scale for comparable commercial SDN stacks | **700–1,200 person-years** |
 
 ## The evidence — start here
