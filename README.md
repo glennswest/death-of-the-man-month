@@ -14,14 +14,23 @@ In 1975, Fred Brooks wrote *The Mythical Man-Month*: adding people to a late sof
 
 ## The numbers
 
-| Claim | Number |
+The whole stormcos stack, measured from the repositories themselves (`git ls-files`, shipped code only — no tests, tooling, or vendored code; snapshot 2026-10-07):
+
+| The stack | Number |
+|---|---|
+| Repositories | **54** |
+| Lines of shipped code (96.2% Rust) | **559,317** |
+| Issues — every piece of work starts as one; issues drive the system | **3,923** |
+| Human attention, at one minute per issue (read, answer or approve) | **≈ 65 hours** |
+| Shipped lines per human hour | **≈ 8,554** |
+| Calendar span (about 17 minutes of attention a day — weekends, early mornings, after hours) | **232 days** |
+
+| Highlights | Number |
 |---|---|
 | NextNFS, v0.1.0 → v0.13.8 — a full NFSv4 server in Rust | **11 days** |
 | Passing tests on that release | **591** |
-| Quarter-over-quarter commit volume increase (quality held by review) | **6×** |
 | Updating a running node (golden-image clone swap, not an install) | **2 seconds** |
-| BGP software-defined network, from "I wonder" to benchmarked and working | **weeks** |
-| Total human attention on it, spread across 232 days | **65 hours** |
+| flowsdn — BGP software-defined networking: 354 issues, ~6 hours of attention | **31 days** |
 | Industry scale for comparable commercial SDN stacks | **700–1,200 person-years** |
 
 ## The evidence — start here
