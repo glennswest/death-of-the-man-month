@@ -14,7 +14,7 @@ In 1975, Fred Brooks wrote *The Mythical Man-Month*: adding people to a late sof
 
 ## The numbers
 
-The whole stormcos stack, measured from the repositories themselves (`git ls-files`, shipped code only — no tests, tooling, or vendored code; snapshot 2026-10-07):
+The whole stormcos stack, measured from the repositories themselves (`git ls-files`, shipped code only — no tests, tooling, or vendored code; snapshot 2026-10-07). The full measurement — every repo, every count, and the `measure.py` that produced it — is public: **[mythical-man-month-2027](https://github.com/glennswest/mythical-man-month-2027)**.
 
 | The stack | Number |
 |---|---|
