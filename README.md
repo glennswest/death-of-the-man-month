@@ -88,4 +88,4 @@ Plus the wider stack: [microdns](https://github.com/glennswest/microdns) (Rust D
 
 Glenn West — Principal Software Engineer. Forty-plus years spanning telecom, semiconductor, aerospace, and cloud: FPGA hardware-as-code in the 1980s, carrier-grade telco products in the 1990s, cloud strategy across APAC, and field engineering for strategic telco and cloud accounts today.
 
-Contact: [email] · [LinkedIn]
+Contact: gwest@redhat.com · glenn_west@hotmail.com · [LinkedIn](https://www.linkedin.com/in/glenn-west-664a58)
