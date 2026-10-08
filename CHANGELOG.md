@@ -10,3 +10,4 @@
 - **docs:** Fill in contact details (emails, LinkedIn)
 - **docs:** Standardize on 2026 everywhere; measurement repo renamed to mythical-man-month-2026
 - **docs:** Reword SDN comparison — industry efforts, not commercial; note flowsdn is open source and inspired by that body of work
+- **docs:** Remove all OpenShift references across talk materials

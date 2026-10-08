@@ -71,7 +71,7 @@ The talk's "one architect, fifty components" wall. The public members (parts of 
 | [stormagents](https://github.com/glennswest/stormagents) | Sub-millisecond VM sandboxes for AI agents via copy-on-write forking |
 | [stormblock](https://github.com/glennswest/stormblock) | Pure-Rust block storage engine — NVMe-oF/TCP + iSCSI targets, software RAID |
 | [stormbootx](https://github.com/glennswest/stormbootx) | UEFI NVMe/TCP boot extension — no kernel, no initramfs, no PXE |
-| [stormconsole](https://github.com/glennswest/stormconsole) | StormCOS web console — pluggable, OpenShift-style, built on stormd and stormview |
+| [stormconsole](https://github.com/glennswest/stormconsole) | StormCOS web console — pluggable, built on stormd and stormview |
 | [stormcoredns](https://github.com/glennswest/stormcoredns) | CoreDNS reimplemented in Rust — Corefile, plugin chain, full plugin set |
 | [stormcos_builder](https://github.com/glennswest/stormcos_builder) | Builds stormcos boot images on component change; provisions single-node clusters on demand |
 | [stormcos_qa](https://github.com/glennswest/stormcos_qa) | QA: test standard, auto-filing runner, must-gather; tombstones failed images |
