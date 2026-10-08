@@ -10,7 +10,7 @@ A talk by Glenn West. Forty years of systems engineering, two years of managing 
 
 ## The talk in one paragraph
 
-In 1975, Fred Brooks wrote *The Mythical Man-Month*: adding people to a late software project makes it later, because communication paths grow as n(n−1)/2. His prescription — the surgical team, one chief programmer amplified by everyone else — never worked, because the amplifiers were also people. AI agents are that surgical team with the communication tax deleted. They don't meet, they don't defend turf (mostly — see the talk), and they multiply whatever mind holds the design. The evidence: one engineer, in spare time, built a complete datacenter operating system in Rust — and then, as a deliberate "pick something impossible" test, a full BGP-based software-defined network, the kind of system industry estimates put at 700–1,200 person-years for comparable commercial stacks.
+In 1975, Fred Brooks wrote *The Mythical Man-Month*: adding people to a late software project makes it later, because communication paths grow as n(n−1)/2. His prescription — the surgical team, one chief programmer amplified by everyone else — never worked, because the amplifiers were also people. AI agents are that surgical team with the communication tax deleted. They don't meet, they don't defend turf (mostly — see the talk), and they multiply whatever mind holds the design. The evidence: one engineer, in spare time, built a complete datacenter operating system in Rust — and then, as a deliberate "pick something impossible" test, a full BGP-based software-defined network, the kind of system the industry's comparable efforts put at 700–1,200 person-years. flowsdn is open source too, and openly inspired by that body of work.
 
 ## The numbers
 
@@ -31,7 +31,7 @@ The whole stormcos stack, measured from the repositories themselves (`git ls-fil
 | Passing tests on that release | **591** |
 | Updating a running node (golden-image clone swap, not an install) | **2 seconds** |
 | flowsdn — BGP software-defined networking: 354 issues, ~6 hours of attention | **31 days** |
-| Industry scale for comparable commercial SDN stacks | **700–1,200 person-years** |
+| Scale of the industry's comparable SDN efforts | **700–1,200 person-years** |
 
 ## The evidence — start here
 

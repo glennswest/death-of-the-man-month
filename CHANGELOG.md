@@ -9,3 +9,4 @@
 - **docs:** Link the public measurement repo (mythical-man-month-2027) as the source for the numbers
 - **docs:** Fill in contact details (emails, LinkedIn)
 - **docs:** Standardize on 2026 everywhere; measurement repo renamed to mythical-man-month-2026
+- **docs:** Reword SDN comparison — industry efforts, not commercial; note flowsdn is open source and inspired by that body of work
